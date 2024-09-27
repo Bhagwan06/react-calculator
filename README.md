@@ -39,10 +39,10 @@ To get a local copy up and running, follow these simple steps:
 **Usage**
 Once the project is set up locally, you can access the calculator in the browser at http://localhost:3000.
 
-Use the numeric buttons to input numbers.
-The arithmetic operators (+, -, *, /) perform the corresponding operations.
-The C button clears the current input, and the DEL button deletes the last character.
-The result is displayed on the screen after pressing =.
+1. Use the numeric buttons to input numbers.
+2. The arithmetic operators (+, -, *, /) perform the corresponding operations.
+3. The C button clears the current input, and the DEL button deletes the last character.
+4. The result is displayed on the screen after pressing =.
 
 
 **Technologies**
